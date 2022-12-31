@@ -1,5 +1,8 @@
 ## 🤗 About Me :
-기획과 디자인도 겸비한 개발자 김로사입니다!
+모든 직무에 대한 이해력을 갖춘 인재
+<br>
+신입 개발자 김로사입니다!
+
 
 <h3> 💻 Tech Stack</h3>
 
@@ -29,15 +32,19 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
+<h3> 🔗API </h3>
 
-<h3> 🖱 Serve</h3>
+![BootPay](https://img.shields.io/badge/BootPay-037ed7?style=for-the-badge&logo=bootpay&logoColor=white)
+![SummerNote](https://img.shields.io/badge/SummerNote-6db33f?style=for-the-badge&logo=summernote&logoColor=white)
+
+
+<h3> ✒Serve </h3>
 
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9950FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) <br>
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
