@@ -17,7 +17,7 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![JSP](https://img.shields.io/badge/JSP-470137?style=for-the-badge&logo=jsp&logoColor=white)
-![MyBatis](https://img.shields.io/badge/MyBatis-FF9A00?style=for-the-badge&logo=mybatis&logoColor=white)
+![MyBatis](https://img.shields.io/badge/Mybatis-FF9A00?style=for-the-badge&logo=Fluentd&logoColor=white)
 ![Spring boot](https://img.shields.io/badge/Springboot-6db33f?style=for-the-badge&logo=springboot&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-000?style=for-the-badge&logo=jpa&logoColor=white)
 ![QueryDSL](https://img.shields.io/badge/QueryDSL-000?style=for-the-badge&logo=QueryDSL&logoColor=white)
