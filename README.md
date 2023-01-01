@@ -34,8 +34,9 @@
 
 <h3> 🔗API </h3>
 
-![BootPay](https://img.shields.io/badge/BootPay-037ed7?style=for-the-badge&logo=bootpay&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-fdb3ed?style=for-the-badge&logo=jdbc&logoColor=white)
 ![SummerNote](https://img.shields.io/badge/SummerNote-6db33f?style=for-the-badge&logo=summernote&logoColor=white)
+![BootPay](https://img.shields.io/badge/BootPay-037ed7?style=for-the-badge&logo=bootpay&logoColor=white)
 
 
 <h3> ✒Serve </h3>
