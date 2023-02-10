@@ -1,7 +1,5 @@
 ## 🤗 About Me :
-모든 직무에 대한 이해력을 갖춘 인재
-<br>
-신입 개발자 김로사입니다!
+사용자의 편의를 생각하는 신입 개발자 김로사입니다!
 
 
 <h3> 💻 Tech Stack</h3>
@@ -23,8 +21,6 @@
 ![QueryDSL](https://img.shields.io/badge/QueryDSL-000?style=for-the-badge&logo=QueryDSL&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 
-
-
 <h3> 🛠 IDEA & TOOL</h3>
   
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -43,7 +39,6 @@
 ![JDBC](https://img.shields.io/badge/JDBC-fdb3ed?style=for-the-badge&logo=jdbc&logoColor=white)
 ![SummerNote](https://img.shields.io/badge/SummerNote-6db33f?style=for-the-badge&logo=summernote&logoColor=white)
 ![BootPay](https://img.shields.io/badge/BootPay-037ed7?style=for-the-badge&logo=bootpay&logoColor=white)
-
 
 <h3> ✒Serve </h3>
 
